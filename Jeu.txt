@@ -1,0 +1,9 @@
+
+// Réduire la vitesse de déplacement en l'air
+// Si touche une plateforme en l'air : arrête déplacement horizontal
+
+Bug fin de niveau 1
+Faire 2 niveaux plus simple
+Réinitialisation vitesse joueur et HUD
+Faire sélection perso
+Rajouter sons
